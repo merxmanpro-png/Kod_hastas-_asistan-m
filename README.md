@@ -11,3 +11,4 @@ EGER değer>=50 YAZ "Kritik eşik"
 DEĞİLSE YAZ "Durum normal"
 DUR
 ## kaynakça:HOCAM ve programlama temelleri
+http://www.robotiksistem.com/flowchart.jpg
