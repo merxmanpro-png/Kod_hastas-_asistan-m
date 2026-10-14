@@ -6,3 +6,7 @@ sonucu standart akış şeması sembolleriyle tasarlamak
 ## Projenin hedefleri: 
 * sonucu standart akış şeması sembolleriyle tasarlamak
 * mantıksal bir sıra dâhilinde işlemek
+## Projenin kapsamı: 
+Başla
+kullanicidan isim değerini oku (i)
+"merhaba + i" yazdır
