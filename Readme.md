@@ -12,5 +12,6 @@ kullanicidan isim değerini oku (isim)
 mesaj="merhaba" + isim
 mesaj değerini ekrana yazdır
 dur
+## kaynakça: gemine ve temel programlama kitabı
 
 
