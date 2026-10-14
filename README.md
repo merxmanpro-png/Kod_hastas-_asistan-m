@@ -1,5 +1,5 @@
 Proje Yazarı: Mert Güvel
-# Proje Adı: Kod_hastasi_asistanim v0.1
+# Proje Adı: Kod_asistanım v0.1
 ## Projenin Amaci: Kullanıcılara günlük işlerinde (hesaplama,selamlama vb.) yardımcı olacak bir dijital asistan tasarlamak
 ## Projenin Hedefleri:
 * V1.0 Akıllı Menü
